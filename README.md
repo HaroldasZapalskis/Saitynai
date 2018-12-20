@@ -2,8 +2,11 @@
 
 > Haroldo Zapalskio saitynu projektas
 
-Node run
-```d```
+To run server use command
+```node server.js```
+
+To run front-end use command
+```npm run dev```
 
 ## Build Setup
 
