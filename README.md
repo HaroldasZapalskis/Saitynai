@@ -2,6 +2,9 @@
 
 > Haroldo Zapalskio saitynu projektas
 
+Node run
+```d```
+
 ## Build Setup
 
 ``` bash
